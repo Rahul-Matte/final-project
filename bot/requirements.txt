@@ -1,0 +1,9 @@
+streamlit
+requests
+opencv-python
+numpy
+edge-tts
+langdetect
+geopy
+deep_translator
+streamlit-js-eval
